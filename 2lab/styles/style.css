@@ -1,0 +1,50 @@
+h1 {
+    margin: 0;
+    padding: 70px 0;
+    text-align: center;
+    color: #1976ce;
+    text-shadow: 1px 1px 1px black;
+    font-size: 70px;
+  }
+
+  html {
+    background-color: #ffffff;
+  }
+
+  .mainW {
+    text-align: center;
+    font-size: 30px;
+  }
+  .listN {
+    margin-left: 45%;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 25px;
+    overflow-y: hidden;
+    width: 250px;
+    height: 250px;
+  }
+  .listN:hover {
+  overflow-y: auto;
+  }
+  .Save {
+    margin-top: 15px;
+    font-size: 30px;
+  }
+  .InText {
+    font-size: 30px;
+  }
+  .LiBlack {
+    padding-left: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 200px;
+  }
+  .LiWhite {
+    padding-left: 5px;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 200px;
+  }
